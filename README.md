@@ -24,5 +24,5 @@ Captures d'écran :<br>
 <img src="https://github.com/gbegreg/FMXRace/blob/master/images/captureFMXRace5.png">
 <img src="https://github.com/gbegreg/FMXRace/blob/master/images/captureFMXRace6.png">
 <img src="https://github.com/gbegreg/FMXRace/blob/master/images/captureFMXRace7.png">
-<img src="https://github.com/gbegreg/FMXRace/blob/master/images/android.png">
-<img src="https://github.com/gbegreg/Ile3D/blob/master/macos.png">
+<img src="https://github.com/gbegreg/FMXRace/blob/master/images/android.png"><br>
+<img src="https://github.com/gbegreg/FMXRace/blob/master/images/macos.png">
