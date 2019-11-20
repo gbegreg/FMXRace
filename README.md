@@ -11,7 +11,7 @@ Ce projet montre en particulier :
 - plusieurs caméras disponibles;
  
 Ce projet ne contient pas de moteur physique, il est bien évidemment perfectible et optimisable mais il est déjà en l'état utilisable sur toutes les plateformes cibles de Delphi.
-Il a été testé sous Windows, Mac OS, Android et IOS. Je n'ai pas encore eu l'occasion de le tester sous Linux.
+Il a été testé sous Windows, Mac OS, Android et IOS. Je n'ai pas encore eu l'occasion de le tester sous Linux. Les exécutables sont disponibles sur mon site : http://www.gbesoft.fr/jeux.php#fmxrace
 
 N'hésitez pas à me faire vos retours et à mettre une petite étoile ;)
 
